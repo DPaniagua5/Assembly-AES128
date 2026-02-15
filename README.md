@@ -64,7 +64,6 @@ Este proyecto utiliza herramientas de **cross-compilation para ARM64 (AArch64)**
 ```bash
 chmod +x build.sh
 ./build.sh
-
 ```
 
 ---
